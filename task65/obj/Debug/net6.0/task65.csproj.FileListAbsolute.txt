@@ -1,0 +1,15 @@
+D:\study\SHARP\DZ\DZ9\task65\bin\Debug\net6.0\task65.exe
+D:\study\SHARP\DZ\DZ9\task65\bin\Debug\net6.0\task65.deps.json
+D:\study\SHARP\DZ\DZ9\task65\bin\Debug\net6.0\task65.runtimeconfig.json
+D:\study\SHARP\DZ\DZ9\task65\bin\Debug\net6.0\task65.dll
+D:\study\SHARP\DZ\DZ9\task65\bin\Debug\net6.0\task65.pdb
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.csproj.AssemblyReference.cache
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.AssemblyInfoInputs.cache
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.AssemblyInfo.cs
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.csproj.CoreCompileInputs.cache
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.dll
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\refint\task65.dll
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.pdb
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\task65.genruntimeconfig.cache
+D:\study\SHARP\DZ\DZ9\task65\obj\Debug\net6.0\ref\task65.dll
